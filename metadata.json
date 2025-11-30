@@ -1,0 +1,5 @@
+{
+  "name": "LensGrade AI",
+  "description": "An AI-powered local portfolio curator that evaluates your photography using Gemini Vision and saves ratings to XMP sidecars.",
+  "requestFramePermissions": []
+}
